@@ -1,9 +1,6 @@
 # DIO - Trilha Java Básico
 www.dio.me
 
-#### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
-
 ## Exercício operadores
 Crie o programa chamado `BancoTerminal.java` para implementar o algorítmo conforme abaixo:
 
